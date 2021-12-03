@@ -44,4 +44,4 @@ function setColor(element, kleur, size){ //In op welke regel in de HTML file wor
 
 getName(myStr);
 // wat gebeurd er hierboven het geeft een pop up en wanneer gebeurt dat consel (tip ververs je pagina eens in je brouwser? vul je antwoord in op de lijn.
-// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? de pop up verandert vul je antwoord in op de lijn.
+// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? de pop up verandert vul je antwoord in op de lijn

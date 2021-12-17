@@ -45,4 +45,5 @@ function setColor(element, kleur, size){ //In op welke regel in de HTML file wor
 
 getName(myStr);
 // wat gebeurd er hierboven je geeft getName de waarde van myStr plus je laat een alert afgaan die die waarde laat zien en wanneer gebeurt dat wanneer je op de knop drukt klik op button (tip ververs je pagina eens in je brouwser? 
-// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? ik zie die waarde in de alert als ik op de knop druk. 
+// verander de waarde van myStr en kijk wat er dan gebeurt (ververs je browser en test het uit) wat gebeurd er? ik zie die waarde in de alert als ik op de knop druk..
+ 
